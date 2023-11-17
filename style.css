@@ -1,0 +1,17 @@
+body {
+    background: url(mexico-national-flag.jpg);
+}
+p {
+    text-align: center;
+    color: rgb(6, 16, 90);
+}
+h1{
+    text-align: center;
+    color: red;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h6 {
+    text-align: center;
+    color: green;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
